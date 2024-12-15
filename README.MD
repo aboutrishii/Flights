@@ -1,0 +1,1 @@
+This is a base NodeJS project template , which anyone can use it has been prepared , by keeping some of the msot important code principles and project management recommendations. feel free to change anything.
